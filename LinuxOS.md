@@ -33,7 +33,7 @@ Linux uses a **hierarchical file system**, beginning with the root `/` directory
 ### 4. System Libraries  
 System libraries allow programs to access hardware functions without directly communicating with the kernel.
 
-### 5. 🛠System Utilities & Applications  
+### 5. System Utilities & Applications  
 Essential OS tools that handle system management like file handling, user management, and monitoring.
 
 ---
